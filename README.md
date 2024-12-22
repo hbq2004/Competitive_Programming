@@ -2,6 +2,7 @@
 
 # 算法竞赛
 
+
 [2024第七届“传智杯”全国大学生计算机大赛程序设计挑战赛赛事通知（初赛）](https://www.boxuegu.com/matchNotice/detail/?id=10004) 
 
 
@@ -55,6 +56,12 @@
 
 
 ## CF 如何快速上分 About improving efficiently
+
+Codeforces Div. 2 A ~ C 易爆点：
+
+1. 博弈
+2. 构造
+3. DP
 
 - [0x3F - 大佬们，CodeForces 怎么上分? - Zhihu](https://www.zhihu.com/question/353734418/answer/2353160035) 
 
