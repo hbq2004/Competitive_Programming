@@ -19,6 +19,9 @@
 
 (1, 2)、(3, 4)、(5, 6)
 
+![image](https://github.com/user-attachments/assets/a077cd40-ec9a-40c5-9aeb-a077f005db24)
+
+
 # 测试卷
 
 ## 第一二章
