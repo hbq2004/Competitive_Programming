@@ -57,11 +57,11 @@
 
 ## CF 如何快速上分 About improving efficiently
 
-Codeforces Div. 2 A ~ C 易爆点：
-
-1. 博弈
-2. 构造
-3. DP
+> [!IMPORTANT]
+> Codeforces Div. 2 A ~ C 易爆点：
+> 1. 博弈
+> 2. 构造
+> 3. DP
 
 - [0x3F - 大佬们，CodeForces 怎么上分? - Zhihu](https://www.zhihu.com/question/353734418/answer/2353160035) 
 
