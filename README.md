@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/6d8f1aa2-f18e-4485-ba2e-ce291bd2f883)
 
 
-2. 杭电多校甲级联赛
+1. [2025春季联合训练-介绍视频：杭电多校甲级联赛](https://www.bilibili.com/video/BV1bkkuYsEVf/) 
 
 ![image](https://github.com/user-attachments/assets/85eb6987-72b1-41a6-9dee-73ab3db69707)
 
