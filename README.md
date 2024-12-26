@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83aa60d1-5cdb-4c44-8804-e977052738b3)
+
 
 # 算法竞赛
 
