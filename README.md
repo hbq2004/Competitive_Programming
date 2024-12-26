@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/83aa60d1-5cdb-4c44-8804-e977052738b3)
 
 # 算法竞赛
 
@@ -15,9 +15,12 @@
 
 1. 牛客寒假算法基础集训营
 
+![image](https://github.com/user-attachments/assets/6d8f1aa2-f18e-4485-ba2e-ce291bd2f883)
 
 
 2. 杭电多校甲级联赛
+
+![image](https://github.com/user-attachments/assets/85eb6987-72b1-41a6-9dee-73ab3db69707)
 
 
 [2024第七届“传智杯”全国大学生计算机大赛程序设计挑战赛赛事通知（初赛）](https://www.boxuegu.com/matchNotice/detail/?id=10004) 
