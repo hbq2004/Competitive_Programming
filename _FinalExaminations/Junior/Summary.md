@@ -4,6 +4,11 @@
 2. 编译原理 2025.1.9 (14:50 - 16:50) 文110/文308
 3. 操作系统原理 2025.1.10 (9:00 - 11:00) 文405
 
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20241228162238.png)
+
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20241228162334.png)
+
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20241228162415.png)
 
 软件工程：
 
