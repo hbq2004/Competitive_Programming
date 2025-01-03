@@ -18,6 +18,9 @@
 4. [又菜又爱玩ST - 软件工程试卷讲解 - Bilibili](https://www.bilibili.com/video/BV1AR4y1j7NX/) 
 5. [晋青杨 - 百度文库软件工程期末试题 - Cnblogs](https://www.cnblogs.com/qyf2199/p/12104922.html) 
 
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103215756.png)
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103215927.png)
+
 
 计算机组成原理：
 
