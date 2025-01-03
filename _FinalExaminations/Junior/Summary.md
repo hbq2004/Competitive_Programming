@@ -30,6 +30,10 @@
 > 5. 综合：15 × 2
 
 
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103224058.png)
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103224034.png)
+
+
 计算机组成原理：
 
 1. [王道计算机教育 - 王道计算机考研 计算机组成原理](https://www.bilibili.com/video/BV1ps4y1d73V/) 
