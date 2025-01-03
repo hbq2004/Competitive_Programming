@@ -21,6 +21,14 @@
 ![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103215756.png)
 ![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103215927.png)
 
+> [!IMPORTANT]
+>
+> 1. 选择题：15 × 2
+> 2. 填空题：10 × 2
+> 3. 判断题：10 × 2
+> 4. 简答题：10 × 2
+> 5. 综合：15 × 2
+
 
 计算机组成原理：
 
@@ -33,6 +41,16 @@
 2. [数学建模老哥 - 《操作系统》4小时期末不挂科！期末速成丨考前突击丨期末不挂科丨考点总结](https://www.bilibili.com/video/BV1ju6TYHEKU/) 
 3. [从0开始数 - 操作系统原理(合集)](https://www.bilibili.com/video/BV13b4y1Q7YD/) 
 4. [nomanker - 爆肝一晚上，希望用动画带你理解操作系统的启动](https://www.bilibili.com/video/BV1mm4y1u7G6/) 
+
+![](https://cdn.jsdelivr.net/gh/hbq2004/image01/20250103223105.png)
+
+> [!IMPORTANT]
+>
+> 1. 选择题：15 × 2
+> 2. 填空题：10 × 2
+> 3. 判断题：10 × 2
+> 4. 大题：8 × 5
+
 
 编译原理：
 
